@@ -1,0 +1,204 @@
+{
+    "last_updated": "2025-05-20 11:02:40",
+    "boss_count": 18,
+    "bosses": [
+        {
+            "name": "Harp bình thường",
+            "coordinates": "D 47 |\nQuái vật Boss Lv1\n| 25M",
+            "level": {
+                "S": "1973",
+                "X": "669",
+                "Y": "296"
+            },
+            "timestamp": "2025-05-20 11:02:37",
+            "attacked": 0
+        },
+        {
+            "name": "Harp bình thường",
+            "coordinates": "D 101 |\nQuái vật Boss Lv1\n| 25M",
+            "level": {
+                "S": "1973",
+                "X": "595",
+                "Y": "290"
+            },
+            "timestamp": "2025-05-20 11:02:37",
+            "attacked": 0
+        },
+        {
+            "name": "Harp bình thường",
+            "coordinates": "D 107 |\nQuái vật Boss Lv1\n| 25M",
+            "level": {
+                "S": "1973",
+                "X": "624",
+                "Y": "427"
+            },
+            "timestamp": "2025-05-20 11:02:37",
+            "attacked": 0
+        },
+        {
+            "name": "Harp bình thường",
+            "coordinates": "D 151 |\nQuái vật Boss Lv1\n| 25M",
+            "level": {
+                "S": "1973",
+                "X": "592",
+                "Y": "459"
+            },
+            "timestamp": "2025-05-20 11:02:37",
+            "attacked": 0
+        },
+        {
+            "name": "Harp bình thường",
+            "coordinates": "D 169 |\nQuái vật Boss Lv1\n| 25M",
+            "level": {
+                "S": "1973",
+                "X": "541",
+                "Y": "429"
+            },
+            "timestamp": "2025-05-20 11:02:37",
+            "attacked": 0
+        },
+        {
+            "name": "Harp bình thường",
+            "coordinates": "D 182 |\nQuái vật Boss Lv1\n| 25M",
+            "level": {
+                "S": "1973",
+                "X": "622",
+                "Y": "509"
+            },
+            "timestamp": "2025-05-20 11:02:37",
+            "attacked": 0
+        },
+        {
+            "name": "Harp bình thường",
+            "coordinates": "D 183 |\nQuái vật Boss Lv1\n| 25M",
+            "level": {
+                "S": "1973",
+                "X": "518",
+                "Y": "414"
+            },
+            "timestamp": "2025-05-20 11:02:37",
+            "attacked": 0
+        },
+        {
+            "name": "Harp bình thường",
+            "coordinates": "D 183 |\nQuái vật Boss Lv1\n| 25M",
+            "level": {
+                "S": "1973",
+                "X": "866",
+                "Y": "348"
+            },
+            "timestamp": "2025-05-20 11:02:37",
+            "attacked": 0
+        },
+        {
+            "name": "Harp bình thường",
+            "coordinates": "D 184 |\nQuái vật Boss Lv1\n| 25M",
+            "level": {
+                "S": "1973",
+                "X": "846",
+                "Y": "252"
+            },
+            "timestamp": "2025-05-20 11:02:37",
+            "attacked": 0
+        },
+        {
+            "name": "Harp bình thường",
+            "coordinates": "D 185 |\nQuái vật Boss Lv1\n| 25M",
+            "level": {
+                "S": "1973",
+                "X": "782",
+                "Y": "495"
+            },
+            "timestamp": "2025-05-20 11:02:37",
+            "attacked": 0
+        },
+        {
+            "name": "Harp bình thường",
+            "coordinates": "D 186 |\nQuái vật Boss Lv1\n| 25M",
+            "level": {
+                "S": "1973",
+                "X": "776",
+                "Y": "179"
+            },
+            "timestamp": "2025-05-20 11:02:37",
+            "attacked": 0
+        },
+        {
+            "name": "Harp bình thường",
+            "coordinates": "D 186 |\nQuái vật Boss Lv1\n| 25M",
+            "level": {
+                "S": "1973",
+                "X": "532",
+                "Y": "444"
+            },
+            "timestamp": "2025-05-20 11:02:37",
+            "attacked": 0
+        },
+        {
+            "name": "Harp bình thường",
+            "coordinates": "D 186 |\nQuái vật Boss Lv1\n| 25M",
+            "level": {
+                "S": "1973",
+                "X": "522",
+                "Y": "434"
+            },
+            "timestamp": "2025-05-20 11:02:37",
+            "attacked": 0
+        },
+        {
+            "name": "Harp bình thường",
+            "coordinates": "D 187 |\nQuái vật Boss Lv1\n| 25M",
+            "level": {
+                "S": "1973",
+                "X": "630",
+                "Y": "161"
+            },
+            "timestamp": "2025-05-20 11:02:37",
+            "attacked": 0
+        },
+        {
+            "name": "Harp bình thường",
+            "coordinates": "D 187 |\nQuái vật Boss Lv1\n| 25M",
+            "level": {
+                "S": "1973",
+                "X": "548",
+                "Y": "466"
+            },
+            "timestamp": "2025-05-20 11:02:37",
+            "attacked": 0
+        },
+        {
+            "name": "Harp bình thường",
+            "coordinates": "D 188 |\nQuái vật Boss Lv1\n| 25M",
+            "level": {
+                "S": "1973",
+                "X": "499",
+                "Y": "303"
+            },
+            "timestamp": "2025-05-20 11:02:38",
+            "attacked": 0
+        },
+        {
+            "name": "Harp bình thường",
+            "coordinates": "D 188 |\nQuái vật Boss Lv1\n| 25M",
+            "level": {
+                "S": "1973",
+                "X": "868",
+                "Y": "304"
+            },
+            "timestamp": "2025-05-20 11:02:38",
+            "attacked": 0
+        },
+        {
+            "name": "Harp bình thường",
+            "coordinates": "D 188 |\nQuái vật Boss Lv1\n| 25M",
+            "level": {
+                "S": "1973",
+                "X": "506",
+                "Y": "396"
+            },
+            "timestamp": "2025-05-20 11:02:38",
+            "attacked": 0
+        }
+    ]
+}
